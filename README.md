@@ -147,19 +147,3 @@ This configuration is inspired by and incorporates elements from various Neovim 
 ## License
 
 MIT
-```
-
-Commit this change:
-```bash
-git add README.md
-git commit -m "docs: complete README with features and usage instructions
-
-- Add comprehensive feature overview
-- Document keybindings for all major features
-- Include installation instructions
-- List supported languages and plugins
-- Add customization instructions
-- Include credits and licensing information
-
-This documentation provides a complete guide to using the configuration."
-```
