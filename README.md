@@ -13,6 +13,13 @@ A modern, modular, and thoughtfully structured Neovim configuration focusing on 
 
 ## Installation
 
+```bash
+git clone https://github.com/smeneguz/nvim-config.git ~/.config/nvim
+cd ~/.config/nvim
+./install.sh
+nvim
+```
+
 ### Backup Your Current Configuration
 
 ```bash
